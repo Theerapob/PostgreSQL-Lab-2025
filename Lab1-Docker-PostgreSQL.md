@@ -1,4 +1,4 @@
-# Lab 01: PostgreSQL Docker Setup and Basic Operations
+![Docker](https://github.com/user-attachments/assets/9d020b32-ba9d-4e00-aacf-766b480eb567)# Lab 01: PostgreSQL Docker Setup and Basic Operations
 
 ## วัตถุประสงค์
 1. ติดตั้งและใช้งาน PostgreSQL ผ่าน Docker
@@ -80,7 +80,9 @@ docker run hello-world
 
 **บันทึกผลการทดลอง - การเตรียมความพร้อม:**
 ```
-ใส่ Screenshot ของผลการรัน docker --version และ docker run hello-world ที่นี่
+![Docker](https://github.com/user-attachments/assets/07f9f43a-72e4-454c-83a8-3ed9bee2ddec)
+![Docker 2](https://github.com/user-attachments/assets/182bf3af-6ecf-4c75-ba16-881c4f9aa2bc)
+
 ```
 
 ## ขั้นตอนการทดลอง
